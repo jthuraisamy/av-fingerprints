@@ -56,7 +56,7 @@ USERPROFILE=C:\Documents and Settings\Administrator
 windir=C:\WINDOWS
 ```
 
-## GetSystemRegistryQuota
+### GetSystemRegistryQuota
 
 `pdwQuotaAllowed` and `pdwQuotaUsed` are not supposed to be `null`.
 
