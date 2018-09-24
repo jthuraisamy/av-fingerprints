@@ -11,7 +11,7 @@ Special thanks to Alexei Bulazel ([@0xAlexei](https://twitter.com/0xAlexei)) for
 
 ## B50C3DF2 v13.0.3114
 
-### argv[0] value
+### argv[0]
 
 The executable name is 6 randomly generated lower-alphabetic characters.
 
