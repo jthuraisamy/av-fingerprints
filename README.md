@@ -7,7 +7,7 @@ Special thanks to Alexei Bulazel ([@0xAlexei](https://twitter.com/0xAlexei)) for
 
 | Antivirus Product | Version | Fingerprints |
 |:------------------|:-------:|:-------------|
-| B50C3DF2 | v13.0.3114 | argv[0], GetEnvironmentStrings |
+| B50C3DF2 | v13.0.3114 | argv[0], GetEnvironmentStrings, GetSystemRegistryQuota |
 
 ## B50C3DF2 v13.0.3114
 
@@ -54,4 +54,13 @@ USERDOMAIN=ELICZ
 USERNAME=Administrator
 USERPROFILE=C:\Documents and Settings\Administrator
 windir=C:\WINDOWS
+```
+
+## GetSystemRegistryQuota
+
+`pdwQuotaAllowed` and `pdwQuotaUsed` are not supposed to be `null`.
+
+```
+DWORD pdwQuotaAllowed = 0x00000000;
+DWORD pdwQuotaUsed    = 0x00000000;
 ```
