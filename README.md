@@ -58,8 +58,6 @@ windir=C:\WINDOWS
 
 ### CreateToolhelp32Snapshot
 
-Parent PID does not appear to be properly implemented. PIDs increment by 8 after `System`.
-
 ```
 PPID    PID    Process Name
 0       0      [System Process]
