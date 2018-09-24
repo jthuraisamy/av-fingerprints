@@ -7,7 +7,7 @@ Special thanks to Alexei Bulazel ([@0xAlexei](https://twitter.com/0xAlexei)) for
 
 | Antivirus Product | Version | Fingerprints |
 |:------------------|:-------:|:-------------|
-| B50C3DF2 | v13.0.3114 | 3 |
+| B50C3DF2 | v13.0.3114 | 4 |
 
 ## B50C3DF2 v13.0.3114
 
