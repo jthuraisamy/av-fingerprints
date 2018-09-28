@@ -5,8 +5,8 @@ Fingerprinting Antivirus Emulators Through Black-Box Testing](https://www.usenix
 
 Special thanks to Alexei Bulazel ([@0xAlexei](https://twitter.com/0xAlexei)) for his assistance.
 
-|   | [B50C3DF2 (v13.0.3114)](B50C3DF2.md) | A3150A5E (v18.6.3983.0) | [949A2A6D (v4.00.09)](949A2A6D.md) |
-|:--|:---------------------:|:-----------------------:|:-------------------:|
+|   | [B50C3DF2](B50C3DF2.md) | A3150A5E | [949A2A6D](949A2A6D.md) |
+|:--|:-----------------------:|:--------:|:-----------------------:|
 | **Environmental Artifacts** | 3 | 0 | 1 |
 | **OS API Inconsistency**    | 1 | 0 | 0 |
 | **Network Emulation**       | 0 | 0 | 0 |
