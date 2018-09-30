@@ -7,7 +7,7 @@ Special thanks to Alexei Bulazel ([@0xAlexei](https://twitter.com/0xAlexei)) for
 
 |   | [949A2A6D](949A2A6D.md) | [A3150A5E](A3150A5E.md) | [B50C3DF2](B50C3DF2.md) |
 |:--|:-----------------------:|:--------:|:-----------------------:|
-| **Environmental Artifacts** | 3 | 2 | 3 |
+| **Environmental Artifacts** | 3 | 3 | 3 |
 | **OS API Inconsistency**    | 2 | 0 | 1 |
 | **Network Emulation**       | 0 | 0 | 0 |
 | **Timing**                  | 0 | 0 | 0 |
