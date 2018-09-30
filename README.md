@@ -8,7 +8,7 @@ Special thanks to Alexei Bulazel ([@0xAlexei](https://twitter.com/0xAlexei)) for
 |   | [B50C3DF2](B50C3DF2.md) | A3150A5E | [949A2A6D](949A2A6D.md) |
 |:--|:-----------------------:|:--------:|:-----------------------:|
 | **Environmental Artifacts** | 3 | 0 | 3 |
-| **OS API Inconsistency**    | 1 | 0 | 0 |
+| **OS API Inconsistency**    | 1 | 0 | 1 |
 | **Network Emulation**       | 0 | 0 | 0 |
 | **Timing**                  | 0 | 0 | 0 |
 | **Process Introspection**   | 0 | 0 | 0 |
